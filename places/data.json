@@ -1,0 +1,25 @@
+{
+  "collection": {
+    "unique_id": "places",
+    "name_line_1": "Places and Monuments",
+    "name_line_2": "",
+    "published": true
+  },
+  "items": [
+    {
+      "unique_id": "bodiam-castle",
+      "uploaded_image": { "file": "bodiam-castle.jpg" },
+      "source": "https://pixabay.com/en/bodiam-castle-castle-lake-monument-809851/"
+    },
+    {
+      "unique_id": "stonehenge",
+      "uploaded_image": { "file": "stonehenge.jpg" },
+      "source": "https://pixabay.com/en/stonehenge-standing-stones-ancient-800448/"
+    },
+    {
+      "unique_id": "taj-mahal",
+      "uploaded_image": { "file": "taj-mahal.jpg" },
+      "source": "https://pixabay.com/en/taj-mahal-mausoleum-marble-white-717996/"
+    }
+  ]
+}

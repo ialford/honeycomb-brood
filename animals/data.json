@@ -1,0 +1,88 @@
+{
+  "collection": {
+    "unique_id": "animals",
+    "name_line_1": "Pretty Animals",
+    "name_line_2": "CC Images of Animals",
+    "published": true
+  },
+  "items": [
+    {
+      "unique_id": "horse-in-meadow",
+      "uploaded_image": { "file": "horse-in-meadow.jpg" },
+      "source": "https://pixabay.com/en/horse-nature-animals-meadow-337215/"
+    },
+    {
+      "unique_id": "honeycreeper-on-flower",
+      "uploaded_image": { "file": "honeycreeper-on-flower.jpg" },
+      "source": "https://pixabay.com/en/bird-honeycreeper-close-colorful-800418/"
+    },
+    {
+      "unique_id": "siamese-cat-portrait",
+      "uploaded_image": { "file": "siamese-cat-portrait.jpg" },
+      "source": "https://pixabay.com/en/cat-siamese-cat-portrait-cat-baby-806210/"
+    },
+    {
+      "unique_id": "gecko",
+      "uploaded_image": { "file": "gecko.jpg" },
+      "source": "https://pixabay.com/en/gecko-hand-sticky-nature-reptile-800887/"
+    },
+    {
+      "unique_id": "butterfly-on-flower",
+      "uploaded_image": { "file": "butterfly-on-flower.jpg" },
+      "source": "https://pixabay.com/en/hawk-weed-orange-red-wild-flower-800914/"
+    },
+    {
+      "unique_id": "red-ibis",
+      "uploaded_image": { "file": "red-ibis.jpg" },
+      "source": "https://pixabay.com/en/bird-park-walsrode-red-ibis-bird-794302/"
+    },
+    {
+      "unique_id": "tiger",
+      "uploaded_image": { "file": "tiger.jpg" },
+      "source": "https://pixabay.com/en/tiger-animal-cat-animal-world-792329/"
+    },
+    {
+      "unique_id": "blackbird-nest",
+      "uploaded_image": { "file": "blackbird-nest.jpg" },
+      "source": "https://pixabay.com/en/bird-blackbird-nest-hatching-boy-793914/"
+    },
+    {
+      "unique_id": "young-sparrows",
+      "uploaded_image": { "file": "young-sparrows.jpg" },
+      "source": "https://pixabay.com/en/sparrows-bird-young-foraging-797995/"
+    },
+    {
+      "unique_id": "red-squirrel",
+      "uploaded_image": { "file": "red-squirrel.jpg" },
+      "source": "https://pixabay.com/en/squirrel-animal-brown-nature-cute-803618/"
+    },
+    {
+      "unique_id": "flying-seagulls",
+      "uploaded_image": { "file": "flying-seagulls.jpg" },
+      "source": "https://pixabay.com/en/seagull-birds-flight-sky-wings-754470/"
+    },
+    {
+      "unique_id": "leopard",
+      "uploaded_image": { "file": "leopard.jpg" },
+      "source": "https://pixabay.com/en/wild-wildlife-leopard-animal-800087/"
+    },
+    {
+      "unique_id": "pig-in-mud",
+      "uploaded_image": { "file": "pig-in-mud.jpg" },
+      "source": "https://pixabay.com/en/pig-sow-animal-portrait-752555/"
+    }
+  ],
+  "templates": {
+    "collection": {
+      "unique_id": "",
+      "name_line_1": "",
+      "name_line_2": "",
+      "published": true
+    },
+    "item": {
+      "unique_id": "",
+      "uploaded_image": { "file": ".jpg" },
+      "source": ""
+    }
+  }
+}

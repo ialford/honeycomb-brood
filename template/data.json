@@ -1,0 +1,25 @@
+{
+  "collection": {
+    "unique_id": "",
+    "name_line_1": "",
+    "name_line_2": "",
+    "published": true
+  },
+  "items": [
+    {
+      "unique_id": "",
+      "uploaded_image": { "file": ".jpg" },
+      "source": ""
+    },
+    {
+      "unique_id": "",
+      "uploaded_image": { "file": ".jpg" },
+      "source": ""
+    },
+    {
+      "unique_id": "",
+      "uploaded_image": { "file": ".jpg" },
+      "source": ""
+    }
+  ]
+}
