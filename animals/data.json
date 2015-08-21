@@ -9,67 +9,104 @@
     {
       "unique_id": "horse-in-meadow",
       "uploaded_image": { "file": "horse-in-meadow.jpg" },
-      "source": "https://pixabay.com/en/horse-nature-animals-meadow-337215/"
+      "source": "https://pixabay.com/en/horse-nature-animals-meadow-337215/",
+      "name": "Horse in Meadow",
+      "creator": ["Wim De Graaf"],
+      "date_created": {"year":"2007","month":"8","day":"15","bc":"false","display_text":""}
     },
     {
       "unique_id": "honeycreeper-on-flower",
       "uploaded_image": { "file": "honeycreeper-on-flower.jpg" },
-      "source": "https://pixabay.com/en/bird-honeycreeper-close-colorful-800418/"
+      "source": "https://pixabay.com/en/bird-honeycreeper-close-colorful-800418/",
+      "name": "Honeycreeper on Flower",
+      "creator": ["Gerhard Gellinger"],
+      "date_created": {"year":"2015","month":"6","day":"6","bc":"false","display_text":""}
     },
     {
       "unique_id": "siamese-cat-portrait",
       "uploaded_image": { "file": "siamese-cat-portrait.jpg" },
-      "source": "https://pixabay.com/en/cat-siamese-cat-portrait-cat-baby-806210/"
+      "source": "https://pixabay.com/en/cat-siamese-cat-portrait-cat-baby-806210/",
+      "name": "Siamese Cat Portrait",
+      "creator": ["Andreas Petzold"],
+      "date_created": {"year":"2004","month":"1","day":"8","bc":"false","display_text":""}
     },
     {
       "unique_id": "gecko",
       "uploaded_image": { "file": "gecko.jpg" },
-      "source": "https://pixabay.com/en/gecko-hand-sticky-nature-reptile-800887/"
+      "source": "https://pixabay.com/en/gecko-hand-sticky-nature-reptile-800887/",
+      "name": "Gecko",
+      "creator": ["Peter Skitterians", "Rudy Skitterians"]
     },
     {
       "unique_id": "butterfly-on-flower",
       "uploaded_image": { "file": "butterfly-on-flower.jpg" },
-      "source": "https://pixabay.com/en/hawk-weed-orange-red-wild-flower-800914/"
+      "source": "https://pixabay.com/en/hawk-weed-orange-red-wild-flower-800914/",
+      "name": "Butterfly on Flower",
+      "creator": ["Brigitte Werner"],
+      "date_created": {"year":"2015","month":"6","day":"6","bc":"false","display_text":""}
     },
     {
       "unique_id": "red-ibis",
       "uploaded_image": { "file": "red-ibis.jpg" },
-      "source": "https://pixabay.com/en/bird-park-walsrode-red-ibis-bird-794302/"
+      "source": "https://pixabay.com/en/bird-park-walsrode-red-ibis-bird-794302/",
+      "name": "Red Ibis",
+      "creator": ["Cobo123"],
+      "date_created": {"year":"2015","month":"5","day":"25","bc":"false","display_text":""}
     },
     {
       "unique_id": "tiger",
       "uploaded_image": { "file": "tiger.jpg" },
-      "source": "https://pixabay.com/en/tiger-animal-cat-animal-world-792329/"
+      "source": "https://pixabay.com/en/tiger-animal-cat-animal-world-792329/",
+      "name": "Tiger Portrait",
+      "creator": ["R. P."],
+      "date_created": {"year":"2010","month":"9","day":"26","bc":"false","display_text":""}
     },
     {
       "unique_id": "blackbird-nest",
       "uploaded_image": { "file": "blackbird-nest.jpg" },
-      "source": "https://pixabay.com/en/bird-blackbird-nest-hatching-boy-793914/"
+      "source": "https://pixabay.com/en/bird-blackbird-nest-hatching-boy-793914/",
+      "name": "Blackbird Nest",
+      "creator": ["Gerhard Gellinger"],
+      "date_created": {"year":"2014","month":"4","day":"21","bc":"false","display_text":""}
     },
     {
       "unique_id": "young-sparrows",
       "uploaded_image": { "file": "young-sparrows.jpg" },
-      "source": "https://pixabay.com/en/sparrows-bird-young-foraging-797995/"
+      "source": "https://pixabay.com/en/sparrows-bird-young-foraging-797995/",
+      "name": "Young Sparrows",
+      "creator": ["Christiane"]
     },
     {
       "unique_id": "red-squirrel",
       "uploaded_image": { "file": "red-squirrel.jpg" },
-      "source": "https://pixabay.com/en/squirrel-animal-brown-nature-cute-803618/"
+      "source": "https://pixabay.com/en/squirrel-animal-brown-nature-cute-803618/",
+      "name": "Red Squirrel",
+      "creator": ["Alexandra"],
+      "date_created": {"year":"2015","month":"6","day":"9","bc":"false","display_text":""}
     },
     {
       "unique_id": "flying-seagulls",
       "uploaded_image": { "file": "flying-seagulls.jpg" },
-      "source": "https://pixabay.com/en/seagull-birds-flight-sky-wings-754470/"
+      "source": "https://pixabay.com/en/seagull-birds-flight-sky-wings-754470/",
+      "name": "Seagulls in Flight",
+      "creator": ["Adina Voicu"],
+      "date_created": {"year":"2009","month":"6","day":"13","bc":"false","display_text":""}
     },
     {
       "unique_id": "leopard",
       "uploaded_image": { "file": "leopard.jpg" },
-      "source": "https://pixabay.com/en/wild-wildlife-leopard-animal-800087/"
+      "source": "https://pixabay.com/en/wild-wildlife-leopard-animal-800087/",
+      "name": "Leopard",
+      "creator": ["Kumar Saswat"],
+      "date_created": {"year":"2014","month":"7","day":"5","bc":"false","display_text":""}
     },
     {
       "unique_id": "pig-in-mud",
       "uploaded_image": { "file": "pig-in-mud.jpg" },
-      "source": "https://pixabay.com/en/pig-sow-animal-portrait-752555/"
+      "source": "https://pixabay.com/en/pig-sow-animal-portrait-752555/",
+      "name": "Pig in Mud",
+      "creator": ["Jai79"],
+      "date_created": {"year":"2015","month":"4","day":"30","bc":"false","display_text":""}
     }
   ],
   "templates": {
@@ -82,7 +119,10 @@
     "item": {
       "unique_id": "",
       "uploaded_image": { "file": ".jpg" },
-      "source": ""
+      "source": "",
+      "name": "",
+      "creator": [""],
+      "date_created": {"year":"","month":"","day":"","bc":"false","display_text":""}
     }
   }
 }
