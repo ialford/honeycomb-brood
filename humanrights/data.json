@@ -62,6 +62,26 @@
         "transcription": "The State Parties undertake to prevent and punish torture in accordance with the terms of this Convention.",
         "type": "BodyText"
       }
+    },
+    {
+      "unique_id": "humanrights1-6",
+      "metadata": {
+        "name": "title",
+        "parent_id": "humanrights1",
+        "order": 6,
+        "transcription": "Article 2",
+        "type": "Subheading1"
+      }
+    },
+    {
+      "unique_id": "humanrights1-7",
+      "metadata": {
+        "name": "title",
+        "parent_id": "humanrights1",
+        "order": 7,
+        "transcription": "For the purposes of this Convention, torture shall be understood to be any act intentionally performed whereby physical or mental pain or suffering is inflicted on a person for purposes of criminal investigation, as a means of intimidation, as personal punishment, as a preventive measure, as a penalty, or for any other purpose. Torture shall also be understood to be the use of methods upon a person intended to obliterate the personality of the victim or to diminish his physical or mental capacities, even if they do not cause physical pain or mental anguish. The concept of torture shall not include physical or mental pain or suffering that is inherent in or solely the consequence of lawful measures, provided that they do not include the performance of the acts or use of the methods referred to in this article.",
+        "type": "BodyText"
+      }
     }
   ]
 }

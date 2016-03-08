@@ -52,6 +52,36 @@
         "transcription": "Hi <strong>how</strong> <em>are</em> you? <ul><li>Point the first</li><li>Point the second</li></ul><blockquote>quotes are amzing</blockquote",
         "type": "BodyText"
       }
+    },
+    {
+      "unique_id": "catholic1-5",
+      "metadata": {
+        "name": "Body Text line 5",
+        "parent_id": "catholic1",
+        "order": 5,
+        "transcription": "This command applies to the whole Church; and, in this moment of her history, the Church in America is called to take it up and respond with loving generosity to the fundamental task of evangelization. This was what my Predecessor Paul VI, the first Pope to visit America, stressed at Bogotà: “It will be our task, [Lord Jesus], as your representatives and stewards of your divine mysteries (cf. 1 Cor 4:1; 1 Pt 4:10), to spread among men the treasures of your word, your grace, your example”.(2) For the disciple of Christ the duty to evangelize is an obligation of love. “The love of Christ impels us” (2 Cor 5:14), declares the Apostle Paul, recalling all that the Son of God did for us in his redeeming sacrifice: “One man has died for all . . . that those who live may live no longer for themselves, but for him who died and was raised for their sake” (2 Cor 5:14-15).",
+        "type": "BodyText"
+      }
+    },
+    {
+      "unique_id": "catholic1-6",
+      "metadata": {
+        "name": "Body Text line 6",
+        "parent_id": "catholic1",
+        "order": 6,
+        "transcription": "The celebration of anniversaries which evoke in a particular way Christ's love for us stirs in our soul not only a sense of gratitude but also a sense of the need to “proclaim the wonders of God”, to evangelize. Thus, the recent celebration of the five hundredth anniversary of the coming of the Gospel to America — the moment, that is, when Christ first called America to faith — and the approaching Jubilee, when the Church will celebrate the two thousandth anniversary of the Incarnation of the Son of God, are special times when our hearts spontaneously ring out in gratitude to the Lord. Realizing the greatness of the gifts received, the pilgrim Church in America wishes to bring the whole of society and every man and woman to share in the riches of faith and communion in Christ.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "unique_id": "catholic1-7",
+      "metadata": {
+        "name": "subheading line 7",
+        "parent_id": "catholic1",
+        "order": 7,
+        "transcription": "How the Synod Assembly came about",
+        "type": "Subheading3"
+      }
     }
   ]
 }
