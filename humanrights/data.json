@@ -1,0 +1,67 @@
+{
+  "collection": {
+    "unique_id": "humanrights",
+    "name_line_1": "Universal Declaration of Human Rights",
+    "name_line_2": "",
+    "published": true
+  },
+  "items": [
+    {
+      "unique_id": "humanrights1",
+      "name": "INTER-AMERICAN CONVENTION TO PREVENT AND PUNISH TORTURE",
+      "metadata": {
+        "description": "Some social teachings from the catholic church."
+      }
+    },
+    {
+      "unique_id": "humanrights1-1",
+      "metadata": {
+        "name": "title",
+        "parent_id": "humanrights1",
+        "order": 1,
+        "transcription": "INTER-AMERICAN CONVENTION TO PREVENT AND PUNISH TORTURE",
+        "type": "Heading3"
+      }
+    },
+    {
+      "unique_id": "humanrights1-2",
+      "metadata": {
+        "name": "title",
+        "parent_id": "humanrights1",
+        "order": 2,
+        "transcription": "Preamble",
+        "type": "Subheading1"
+      }
+    },
+    {
+      "unique_id": "humanrights1-3",
+      "metadata": {
+        "name": "title",
+        "parent_id": "humanrights1",
+        "order": 3,
+        "transcription": "AWARE of the provision of the American Convention on Human Rights that no one shall be subjected to torture or to cruel, inhuman, or degrading punishment or treatment; REAFFIRMING that all acts of torture or any other cruel, inhuman, or degrading treatment or punishment constitute an offense against human dignity and a denial of the principles set forth in the Charter of the Organization of American States and in the Charter of the United Nations and are violations of the fundamental human rights and freedoms proclaimed in the American Declaration of the Rights and Duties of Man and the Universal Declaration of Human Rights; NOTING THAT, in order for the pertinent rules contained in the aforementioned global and regional instruments to take effect, it is necessary to draft an Inter‐American Convention that prevents and punishes torture; REAFFIRMING their purpose of consolidating in this hemisphere the conditions that make for recognition of and respect for the inherent dignity of man, and ensure the full exercise of his fundamental rights and freedoms, Have agreed upon the following:",
+        "type": "BodyText"
+      }
+    },
+    {
+      "unique_id": "humanrights1-4",
+      "metadata": {
+        "name": "title",
+        "parent_id": "humanrights1",
+        "order": 4,
+        "transcription": "Article 1",
+        "type": "Subheading1"
+      }
+    },
+    {
+      "unique_id": "humanrights1-5",
+      "metadata": {
+        "name": "Body",
+        "parent_id": "humanrights1",
+        "order": 5,
+        "transcription": "The State Parties undertake to prevent and punish torture in accordance with the terms of this Convention.",
+        "type": "BodyText"
+      }
+    }
+  ]
+}
