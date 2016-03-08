@@ -49,7 +49,7 @@
         "name": "html content",
         "parent_id": "catholic1",
         "order": 4,
-        "transcription": "Hi <strong>how</strong> <em>are</em> you? <ul><li>Point the first</li><li>Point the second</li></ul><blockquote>quotes are amzing</blockquote",
+        "transcription": "Hi <strong>how</strong> <em>are</em> you? <ul><li>Point the first</li><li>Point the second</li></ul><blockquote>quotes are amzing</blockquote>",
         "type": "BodyText"
       }
     },
