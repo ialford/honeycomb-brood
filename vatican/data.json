@@ -10,7 +10,8 @@
       "unique_id": "catholic1",
       "name": "Ecclesia in America",
       "metadata": {
-        "description": "Some social teachings from the catholic church."
+        "description": "Some social teachings from the catholic church.",
+        "manuscript_url": "http://www.google.com"
       }
     },
     {
