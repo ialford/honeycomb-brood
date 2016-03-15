@@ -15,17 +15,17 @@
         "mtdsg_reference": "IV-9",
         "registration_number": "I-24841",
         "source": "United Nations General Assembly (39th session)",
-        "date_ended": "1984-12-10",
+        "date_ended": {"year":"1985","month":"12","day":"10","bc":"false","display_text":""},
         "place_of_conclusion": "New York",
-        "entry_into_force": "1987-06-26",
-        "registration": "1987-11-72",
+        "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""}
+        "registration": {"year":"1987","month":"11","day":"17","bc":"false","display_text":""},
         "coverage_spatial": "international",
         "coverage_temporal": "1985",
         "document_group": "International Human Rights Law",
         "document_classification": "Convention",
         "rights": "United Nations",
         "description": "This convention helped to establish some of the groundbreaking norms concerning the treatment of people who are detained or imprisoned in an international context.",
-        "original_language": "Spanish||Russian||French||English||Chinese||Arabic",
+        "original_language": ["Spanish", "Russian", "French", "English", "Chinese", "Arabic"],
         "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-9&chapter=4&lang=en",
         "manuscript_url": "https://treaties.un.org/doc/Treaties/1987/06/19870626%2002-38%20AM/Ch_IV_9p.pdf"
       }
