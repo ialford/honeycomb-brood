@@ -17,7 +17,7 @@
         "source": "United Nations General Assembly (39th session)",
         "date_ended": {"year":"1985","month":"12","day":"10","bc":"false","display_text":""},
         "place_of_conclusion": "New York",
-        "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""}
+        "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""},
         "registration": {"year":"1987","month":"11","day":"17","bc":"false","display_text":""},
         "coverage_spatial": "international",
         "coverage_temporal": "1985",
