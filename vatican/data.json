@@ -7,8 +7,8 @@
   },
   "items": [
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "name": "Ecclesia in America",
         "alternate_name": "On the Encounter with the Livign Jesus Christ: the Way to Conversion, Communion and Solidarity in America",
         "promulgated_by": "Pope John Paul II",
@@ -24,8 +24,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_001",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_001",
         "name": "heading_01",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 1,
@@ -34,8 +34,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_002",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_002",
         "name": "heading_02",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 2,
@@ -44,8 +44,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading3_003",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading3_003",
         "name": "heading_03",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 3,
@@ -54,8 +54,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_004",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_004",
         "name": "heading_04",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 4,
@@ -64,8 +64,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_005",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_Heading1_005",
         "name": "heading_05",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 5,
@@ -74,8 +74,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_006",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_006",
         "name": "body_06",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 6,
@@ -84,8 +84,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_007",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_007",
         "name": "body_07",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 7,
@@ -94,8 +94,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_008",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_008",
         "name": "body_08",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 8,
@@ -104,8 +104,8 @@
       }
     },
     {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_009",
       "metadata": {
-        "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_009",
         "name": "body_09",
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 9,

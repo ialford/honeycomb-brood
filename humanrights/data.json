@@ -7,8 +7,8 @@
   },
   "items": [
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention",
         "name": "Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, 1985",
         "alternate_name": "United Nations Treaty Series Volume 1465 p.85",
         "document_symbol": "A/RES/39/46",
@@ -31,8 +31,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Heading3_001",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_Heading3_001",
         "name": "heading_01",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 1,
@@ -41,8 +41,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_002",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_002",
         "name": "heading_02",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 2,
@@ -51,8 +51,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_003",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_003",
         "name": "body_03",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 3,
@@ -61,8 +61,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_004",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_004",
         "name": "heading_04",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 4,
@@ -71,8 +71,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_005",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_005",
         "name": "heading_05",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 5,
@@ -81,8 +81,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_006",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_006",
         "name": "body_06",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 6,
@@ -91,8 +91,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_007",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_007",
         "name": "body_07",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 7,
@@ -101,8 +101,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_008",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_008",
         "name": "body_08",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 8,
@@ -111,8 +111,8 @@
       }
     },
     {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_009",
       "metadata": {
-        "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_009",
         "name": "body_09",
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 9,
