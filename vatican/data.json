@@ -111,7 +111,27 @@
         "order": 9,
         "transcription": "4. It is certain that the Assembly was an experience of encounter with the Lord. I have especially happy memories of the two Solemn Concelebrations at which I presided in Saint Peter's Basilica at the opening and closing of the Assembly proceedings. Contact with the Risen Lord, truly, really and substantially present in the Eucharist, generated the spiritual atmosphere which enabled the Bishops taking part in the Synodal Assembly to see themselves not only as brothers in the Lord but also as members of the College of Bishops, eager to follow in the footsteps of the Good Shepherd under the leadership of the Successor of Peter, and serving the Church as she makes her pilgrim way in every corner of the continent. None could fail to see the joy of the participants, as they found the Assembly an extraordinary moment of encounter with the Lord, with the Vicar of Christ, with so many Bishops, priests, religious and lay people from every part of the continent.",
         "type": "BodyText"
-      }
+      },
+    },
+    {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_010",
+      "metadata": {
+        "name": "body_10",
+        "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
+        "order": 10,
+        "transcription": "Catholic teaching on torture is both simple and richly complex. On the one hand, the church's teaching seems straightforward: Torture is fundamentally incompatible with the dignity of the human person, and its practice is absolutely prohibited in all circumstances. On the other hand, both historically and existentially, the Catholic Church has more than a passing acquaintance with torture.",
+        "type": "BodyText"
+      },
+    },
+    {
+      "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation_BodyText_011",
+      "metadata": {
+        "name": "body_11",
+        "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
+        "order": 11,
+        "transcription": "The church's contemporary prohibition of torture reflects a deep understanding of the human person and a profound vision of human society. In 1998 Pope John Paul II offered a reflection on the Shroud of Turin in which he connected the suffering of Christ to the inhumanity of torture. Pope John Paul said: "The imprint left by the tortured body of the Crucified One, which attests to the tremendous human capacity for causing pain and death to one's fellow man, stands as an icon of the suffering of the innocent in every age: of the countless tragedies that have marked past history and the dramas that continue to unfold in the world." The pope went on to ask: "How can we not recall with dismay and pity those who do not enjoy basic civil rights, the victims of torture and terrorism, the slaves of criminal organizations?",
+        "type": "BodyText"
+      },
     }
   ]
 }
