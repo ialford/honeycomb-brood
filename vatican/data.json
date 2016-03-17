@@ -132,6 +132,133 @@
         "transcription": "The church's contemporary prohibition of torture reflects a deep understanding of the human person and a profound vision of human society. In 1998 Pope John Paul II offered a reflection on the Shroud of Turin in which he connected the suffering of Christ to the inhumanity of torture. Pope John Paul said: 'The imprint left by the tortured body of the Crucified One, which attests to the tremendous human capacity for causing pain and death to one's fellow man, stands as an icon of the suffering of the innocent in every age: of the countless tragedies that have marked past history and the dramas that continue to unfold in the world.' The pope went on to ask: 'How can we not recall with dismay and pity those who do not enjoy basic civil rights, the victims of torture and terrorism, the slaves of criminal organizations?''",
         "type": "BodyText"
       }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+      "metadata": {
+        "name": "Rerum Novarum",
+        "alternate_name": "On the Reconstruction of the Social Order",
+        "promulgated_by": "Pope Pius XI",
+        "date_promulgated": {"year":"1931","month":"5","day":"15","bc":"false","display_text":""},
+        "place_promulgated": "St Peter's, Rome",
+        "coverage_spatial": ["universal"],
+        "coverage_temporal": "1931",
+        "document_group": "Catholic Social Teaching",
+        "document_classification": "Encyclical",
+        "rights": "Libreria Editrice Vaticana",
+        "description": "Papal document concerning the reordering of the social order in favor of those in need",
+        "manuscript_url": "https://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_Heading1_001",
+      "metadata": {
+        "name": "heading_01",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 1,
+        "transcription": "RERUM NOVARUM",
+        "type": "Heading1"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_Heading1_002",
+      "metadata": {
+        "name": "heading_02",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 2,
+        "transcription": "ENCYCLICAL OF POPE LEO XIII",
+        "type": "Heading1"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_Heading1_003",
+      "metadata": {
+        "name": "heading_03",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 3,
+        "transcription": "ON CAPITAL AND LABOR",
+        "type": "Heading1"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_Heading3_004",
+      "metadata": {
+        "name": "heading_04",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 4,
+        "transcription": "To Our Venerable Brethren the Patriarchs",
+        "type": "Heading3"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_Heading2_005",
+      "metadata": {
+        "name": "heading_05",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 5,
+        "transcription": "Rights and Duties of Capital and Labor",
+        "type": "Heading2"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_BodyText_006",
+      "metadata": {
+        "name": "body_06",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 6,
+        "transcription": "That the spirit ofrevolutionary change, which has long been disturbing the nations of the world,should have passed beyond the sphere of politics and made its influence felt inthe cognate sphere of practical economics is not surprising. The elements of theconflict now raging are unmistakable, in the vast expansion of industrialpursuits and the marvellous discoveries of science; in the changed relationsbetween masters and workmen; in the enormous fortunes of some few individuals,and the utter poverty of the masses; the increased self reliance and closermutual combination of the working classes; as also, finally, in the prevailingmoral degeneracy. Themomentous gravity of the state of things now obtaining fills every mind withpainful apprehension; wise men are discussing it; practical men are proposingschemes; popular meetings, legislatures, and rulers of nations are all busiedwith it - actually there is no question which has taken deeper hold on thepublic mind.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_BodyText_007",
+      "metadata": {
+        "name": "body_07",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 7,
+        "transcription": "2. Therefore, venerable brethren, as on former occasions when it seemed opportune to refute false teaching, We have addressed you in the interests of the Church and of the common weal, and have issued letters bearing on political power, human liberty, the Christian constitution of the State, and like matters, so have We thought it expedient now to speak on the condition of the working classes.(1) It is a subject on which We have already touched more than once, incidentally. But in the present letter, the responsibility of the apostolic office urges Us to treat the question of set purpose and in detail, in order that no misapprehension may exist as to the principles which truth and justice dictate for its settlement. The discussion is not easy, nor is it void of danger. It is no easy matter to define the relative rights and mutual duties of the rich and of the poor, of capital and of labor. And the danger lies in this, that crafty agitators are intent on making use of these differences of opinion to pervert men's judgments and to stir up the people to revolt.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_BodyText_008",
+      "metadata": {
+        "name": "body_08",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 8,
+        "transcription": "3. In any case we clearly see, and on this there is general agreement, that some opportune remedy must be found quickly for the misery and wretchedness pressing so unjustly on the majority of the working class: for the ancient workingmen's guilds were abolished in the last century, and no other protective organization took their place. Public institutions and the laws set aside the ancient religion. Hence, by degrees it has come to pass that working men have been surrendered, isolated and helpless, to the hardheartedness of employers and the greed of unchecked competition. The mischief has been increased by rapacious usury, which, although more than once condemned by the Church, is nevertheless, under a different guise, but with like injustice, still practiced by covetous and grasping men. To this must be added that the hiring of labor and the conduct of trade are concentrated in the hands of comparatively few; so that a small number of very rich men have been able to lay upon the teeming masses of the laboring poor a yoke little better than that of slavery itself.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_BodyText_009",
+      "metadata": {
+        "name": "body_09",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 9,
+        "transcription": "4. To remedy these wrongs the socialists, working on the poor man's envy of the rich, are striving to do away with private property, and contend that individual possessions should become the common property of all, to be administered by the State or by municipal bodies. They hold that by thus transferring property from private individuals to the community, the present mischievous state of things will be set to rights, inasmuch as each citizen will then get his fair share of whatever there is to enjoy. But their contentions are so clearly powerless to end the controversy that were they carried into effect the working man himself would be among the first to suffer. They are, moreover, emphatically unjust, for they would rob the lawful possessor, distort the functions of the State, and create utter confusion in the community.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_BodyText_010",
+      "metadata": {
+        "name": "body_10",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 10,
+        "transcription": "5. It is surely undeniable that, when a man engages in remunerative labor, the impelling reason and motive of his work is to obtain property, and thereafter to hold it as his very own. If one man hires out to another his strength or skill, he does so for the purpose of receiving in return what is necessary for the satisfaction of his needs; he therefore expressly intends to acquire a right full and real, not only to the remuneration, but also to the disposal of such remuneration, just as he pleases. Thus, if he lives sparingly, saves money, and, for greater security, invests his savings in land, the land, in such case, is only his wages under another form; and, consequently, a working man's little estate thus purchased should be as completely at his full disposal as are the wages he receives for his labor. But it is precisely in such power of disposal that ownership obtains, whether the property consist of land or chattels. Socialists, therefore, by endeavoring to transfer the possessions of individuals to the community at large, strike at the interests of every wage-earner, since they would deprive him of the liberty of disposing of his wages, and thereby of all hope and possibility of increasing his resources and of bettering his condition in life.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical_BodyText_011",
+      "metadata": {
+        "name": "body_11",
+        "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
+        "order": 11,
+        "transcription": "6. What is of far greater moment, however, is the fact that the remedy they propose is manifestly against justice. For, every man has by nature the right to possess property as his own. This is one of the chief points of distinction between man and the animal creation, for the brute has no power of self direction, but is governed by two main instincts, which keep his powers on the alert, impel him to develop them in a fitting manner, and stimulate and determine him to action without any power of choice. One of these instincts is self preservation, the other the propagation of the species. Both can attain their purpose by means of things which lie within range; beyond their verge the brute creation cannot go, for they are moved to action by their senses only, and in the special direction which these suggest. But with man it is wholly different. He possesses, on the one hand, the full perfection of the animal being, and hence enjoys at least as much as the rest of the animal kind, the fruition of things material. But animal nature, however perfect, is far from representing the human being in its completeness, and is in truth but humanity's humble handmaid, made to serve and to obey. It is the mind, or reason, which is the predominant element in us who are human creatures; it is this which renders a human being human, and distinguishes him essentially from the brute. And on this very account - that man alone among the animal creation is endowed with reason - it must be within his right to possess things not merely for temporary and momentary use, as other living things do, but to have and to hold them in stable and permanent possession; he must have not only things that perish in the use, but those also which, though they have been reduced into use, continue for further use in after time.",
+        "type": "BodyText"
+      }
     }
   ]
 }
