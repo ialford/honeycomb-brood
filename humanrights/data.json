@@ -1,44 +1,60 @@
 {
   "collection": {
     "unique_id": "humanrights",
-    "name_line_1": "Universal Declaration of Human Rights",
+    "name_line_1": "International Human Rights Legislation",
     "name_line_2": "",
     "published": true
   },
   "items": [
     {
-      "unique_id": "humanrights1",
-      "name": "INTER-AMERICAN CONVENTION TO PREVENT AND PUNISH TORTURE",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention",
       "metadata": {
-        "description": "Some social teachings from the catholic church.",
-        "manuscript_url": "http://www.google.com"
+        "name": "Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, 1985",
+        "alternate_name": "United Nations Treaty Series Volume 1465 p.85",
+        "document_symbol": "A/RES/39/46",
+        "mtdsg_reference": "IV-9",
+        "registration_number": "I-24841",
+        "source": "United Nations General Assembly (39th session)",
+        "date_ended": {"year":"1985","month":"12","day":"10","bc":"false","display_text":""},
+        "place_of_conclusion": "New York",
+        "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""},
+        "registration": {"year":"1987","month":"11","day":"17","bc":"false","display_text":""},
+        "coverage_spatial": "international",
+        "coverage_temporal": "1985",
+        "document_group": "International Human Rights Law",
+        "document_classification": "Convention",
+        "rights": "United Nations",
+        "description": "This convention helped to establish some of the groundbreaking norms concerning the treatment of people who are detained or imprisoned in an international context.",
+        "original_language": ["Spanish", "Russian", "French", "English", "Chinese", "Arabic"],
+        "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-9&chapter=4&lang=en",
+        "manuscript_url": "https://treaties.un.org/doc/Treaties/1987/06/19870626%2002-38%20AM/Ch_IV_9p.pdf"
       }
     },
     {
-      "unique_id": "humanrights1-1",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Heading3_001",
       "metadata": {
-        "name": "title",
-        "parent_id": "humanrights1",
+        "name": "heading_01",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 1,
         "transcription": "INTER-AMERICAN CONVENTION TO PREVENT AND PUNISH TORTURE",
         "type_of_text": "Heading3"
       }
     },
     {
-      "unique_id": "humanrights1-2",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_002",
       "metadata": {
-        "name": "title",
-        "parent_id": "humanrights1",
+        "name": "heading_02",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 2,
         "transcription": "Preamble",
         "type_of_text": "Subheading1"
       }
     },
     {
-      "unique_id": "humanrights1-3",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_003",
       "metadata": {
-        "name": "title",
-        "parent_id": "humanrights1",
+        "name": "body_03",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 3,
         "transcription": "AWARE of the provision of the American Convention on Human Rights that no one shall be subjected to torture or to cruel, inhuman, or degrading punishment or treatment; REAFFIRMING that all acts of torture or any other cruel, inhuman, or degrading treatment or punishment constitute an offense against human dignity and a denial of the principles set forth in the Charter of the Organization of American States and in the Charter of the United Nations and are violations of the fundamental human rights and freedoms proclaimed in the American Declaration of the Rights and Duties of Man and the Universal Declaration of Human Rights; NOTING THAT, in order for the pertinent rules contained in the aforementioned global and regional instruments to take effect, it is necessary to draft an Inter‐American Convention that prevents and punishes torture; REAFFIRMING their purpose of consolidating in this hemisphere the conditions that make for recognition of and respect for the inherent dignity of man, and ensure the full exercise of his fundamental rights and freedoms, Have agreed upon the following:",
         "type_of_text": "BodyText",
@@ -46,20 +62,20 @@
       }
     },
     {
-      "unique_id": "humanrights1-4",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_004",
       "metadata": {
-        "name": "title",
-        "parent_id": "humanrights1",
+        "name": "heading_04",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 4,
         "transcription": "Article 1",
         "type_of_text": "Subheading1"
       }
     },
     {
-      "unique_id": "humanrights1-5",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_005",
       "metadata": {
-        "name": "Body",
-        "parent_id": "humanrights1",
+        "name": "heading_05",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 5,
         "transcription": "The State Parties undertake to prevent and punish torture in accordance with the terms of this Convention.",
         "type_of_text": "BodyText",
@@ -67,24 +83,138 @@
       }
     },
     {
-      "unique_id": "humanrights1-6",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_006",
       "metadata": {
-        "name": "title",
-        "parent_id": "humanrights1",
+        "name": "heading_06",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 6,
         "transcription": "Article 2",
         "type_of_text": "Subheading1"
       }
     },
     {
-      "unique_id": "humanrights1-7",
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_007",
       "metadata": {
-        "name": "title",
-        "parent_id": "humanrights1",
+        "name": "body_07",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 7,
         "transcription": "For the purposes of this Convention, torture shall be understood to be any act intentionally performed whereby physical or mental pain or suffering is inflicted on a person for purposes of criminal investigation, as a means of intimidation, as personal punishment, as a preventive measure, as a penalty, or for any other purpose. Torture shall also be understood to be the use of methods upon a person intended to obliterate the personality of the victim or to diminish his physical or mental capacities, even if they do not cause physical pain or mental anguish. The concept of torture shall not include physical or mental pain or suffering that is inherent in or solely the consequence of lawful measures, provided that they do not include the performance of the acts or use of the methods referred to in this article.",
         "type_of_text": "BodyText",
         "heading": "Paragraph 3"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_Subheading1_008",
+      "metadata": {
+        "name": "heading_08",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
+        "order": 8,
+        "transcription": "Article 3",
+        "type": "Subheading1"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1985_Torture_Convention_BodyText_009",
+      "metadata": {
+        "name": "body_09",
+        "parent_id": "IHRL_UN_1985_Torture_Convention",
+        "order": 9,
+        "transcription": "The following shall be held guilty of the crime of torture: a. A public servant or employee who acting in that capacity orders, instigates or induces the use of torture, or who directly commits it or who, being able to prevent it, fails to do so. b. A person who at the instigation of a public servant or employee mentioned in subparagraph (a) orders, instigates or induces the use of torture, directly commits it or is an accomplice thereto.",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+      "metadata": {
+        "name": "International Covenant on Economic, Social and Cultural Rights, 1966",
+        "alternate_name": "United Nations Treaty Series Volume 993 p.3",
+        "document_symbol": "A/RES/2200 (XXI)",
+        "mtdsg_reference": "IV-3",
+        "registration_number": "I-14531",
+        "source": "United Nations General Assembly (21st session)",
+        "date_ended": {"year":"1966","month":"12","day":"16","bc":"false","display_text":""},
+        "place_of_conclusion": "New York",
+        "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""},
+        "registration": {"year":"1976","month":"01","day":"03","bc":"false","display_text":""},
+        "coverage_spatial": "international",
+        "coverage_temporal": "1966",
+        "document_group": "International Human Rights Law",
+        "document_classification": "Convenant",
+        "rights": "United Nations",
+        "description": "This is a covenant established at the United Nations regarding social rights",
+        "original_language": ["Spanish", "Russian", "French", "English", "Chinese"],
+        "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&lang=en",
+        "manuscript_url": "https://treaties.un.org/doc/Treaties/1976/01/19760103%2009-57%20PM/Ch_IV_03.pdf"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_Heading1_001",
+      "metadata": {
+        "name": "heading_01",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 1,
+        "transcription": "International Covenant on Economic, Social and Cultural Rights",
+        "type": "Heading1"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_Subheading1_002",
+      "metadata": {
+        "name": "heading_02",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 2,
+        "transcription": "Adopted and opened for signature, ratification and accession by General Assembly resolution 2200A (XXI) of 16 December 1966 entry into force 3 January 1976, in accordance with article 27",
+        "type": "Subheading1"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_BodyText_003",
+      "metadata": {
+        "name": "body_03",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 3,
+        "transcription": "AWARE of the provision of the American Convention on Human Rights that no one shall be subjected to torture or to cruel, inhuman, or degrading punishment or treatment; REAFFIRMING that all acts of torture or any other cruel, inhuman, or degrading treatment or punishment constitute an offense against human dignity and a denial of the principles set forth in the Charter of the Organization of American States and in the Charter of the United Nations and are violations of the fundamental human rights and freedoms proclaimed in the American Declaration of the Rights and Duties of Man and the Universal Declaration of Human Rights; NOTING THAT, in order for the pertinent rules contained in the aforementioned global and regional instruments to take effect, it is necessary to draft an Inter‐American Convention that prevents and punishes torture; REAFFIRMING their purpose of consolidating in this hemisphere the conditions that make for recognition of and respect for the inherent dignity of man, and ensure the full exercise of his fundamental rights and freedoms, Have agreed upon the following:",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_BodyText_004",
+      "metadata": {
+        "name": "body_04",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 4,
+        "transcription": "Recognizing that these rights derive from the inherent dignity of the human person,",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_BodyText_005",
+      "metadata": {
+        "name": "body_05",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 5,
+        "transcription": "Recognizing that, in accordance with the Universal Declaration of Human Rights, the ideal of free human beings enjoying freedom from fear and want can only be achieved if conditions are created whereby everyone may enjoy his economic, social and cultural rights, as well as his civil and political rights,",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_BodyText_006",
+      "metadata": {
+        "name": "body_06",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 6,
+        "transcription": "Considering the obligation of States under the Charter of the United Nations to promote universal respect for, and observance of, human rights and freedoms,",
+        "type": "BodyText"
+      }
+    },
+    {
+      "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention_BodyText_007",
+      "metadata": {
+        "name": "body_07",
+        "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
+        "order": 7,
+        "transcription": "Realizing that the individual, having duties to other individuals and to the community to which he belongs, is under a responsibility to strive for the promotion and observance of the rights recognized in the present Covenant,",
+        "type": "BodyText"
       }
     }
   ]
