@@ -10,7 +10,7 @@
       "user_defined_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
       "metadata": {
         "name": "Ecclesia in America",
-        "alternate_name": "On the Encounter with the Livign Jesus Christ: the Way to Conversion, Communion and Solidarity in America",
+        "alternative_title": "On the Encounter with the Livign Jesus Christ: the Way to Conversion, Communion and Solidarity in America",
         "promulgated_by": "Pope John Paul II",
         "date_promulgated": {"year":"1999","month":"1","day":"22","bc":"false","display_text":""},
         "place_promulgated": "Mexico City",
@@ -19,7 +19,6 @@
         "document_group": "Catholic Social Teaching",
         "document_classification": "Apastolic Exhortation",
         "rights": "Libreria Editrice Vaticana",
-        "description": "On the Church in America, the evangelization of peoples, and solidarity in Christ",
         "manuscript_url": "http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html"
       }
     },
@@ -137,7 +136,7 @@
       "user_defined_id": "CST_VAT_1891_RerumNovarum_Encyclical",
       "metadata": {
         "name": "Rerum Novarum",
-        "alternate_name": "On the Reconstruction of the Social Order",
+        "alternative_title": "On the Reconstruction of the Social Order",
         "promulgated_by": "Pope Pius XI",
         "date_promulgated": {"year":"1931","month":"5","day":"15","bc":"false","display_text":""},
         "place_promulgated": "St Peter's, Rome",
@@ -146,7 +145,6 @@
         "document_group": "Catholic Social Teaching",
         "document_classification": "Encyclical",
         "rights": "Libreria Editrice Vaticana",
-        "description": "Papal document concerning the reordering of the social order in favor of those in need",
         "manuscript_url": "https://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html"
       }
     },

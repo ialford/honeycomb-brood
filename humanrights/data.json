@@ -10,12 +10,12 @@
       "user_defined_id": "IHRL_UN_1985_Torture_Convention",
       "metadata": {
         "name": "Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, 1985",
-        "alternate_name": "United Nations Treaty Series Volume 1465 p.85",
+        "alternative_title": "United Nations Treaty Series Volume 1465 p.85",
         "document_symbol": "A/RES/39/46",
         "mtdsg_reference": "IV-9",
         "registration_number": "I-24841",
         "source": "United Nations General Assembly (39th session)",
-        "date_ended": {"year":"1985","month":"12","day":"10","bc":"false","display_text":""},
+        "conclusion": {"year":"1985","month":"12","day":"10","bc":"false","display_text":""},
         "place_of_conclusion": "New York",
         "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""},
         "registration": {"year":"1987","month":"11","day":"17","bc":"false","display_text":""},
@@ -24,8 +24,7 @@
         "document_group": "International Human Rights Law",
         "document_classification": "Convention",
         "rights": "United Nations",
-        "description": "This convention helped to establish some of the groundbreaking norms concerning the treatment of people who are detained or imprisoned in an international context.",
-        "original_language": ["Spanish", "Russian", "French", "English", "Chinese", "Arabic"],
+        "authentic_texts": ["Spanish", "Russian", "French", "English", "Chinese", "Arabic"],
         "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-9&chapter=4&lang=en",
         "manuscript_url": "https://treaties.un.org/doc/Treaties/1987/06/19870626%2002-38%20AM/Ch_IV_9p.pdf"
       }
@@ -124,12 +123,12 @@
       "user_defined_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
       "metadata": {
         "name": "International Covenant on Economic, Social and Cultural Rights, 1966",
-        "alternate_name": "United Nations Treaty Series Volume 993 p.3",
+        "alternative_title": "United Nations Treaty Series Volume 993 p.3",
         "document_symbol": "A/RES/2200 (XXI)",
         "mtdsg_reference": "IV-3",
         "registration_number": "I-14531",
         "source": "United Nations General Assembly (21st session)",
-        "date_ended": {"year":"1966","month":"12","day":"16","bc":"false","display_text":""},
+        "conclusion": {"year":"1966","month":"12","day":"16","bc":"false","display_text":""},
         "place_of_conclusion": "New York",
         "entry_into_force": {"year":"1987","month":"6","day":"26","bc":"false","display_text":""},
         "registration": {"year":"1976","month":"01","day":"03","bc":"false","display_text":""},
@@ -138,8 +137,7 @@
         "document_group": "International Human Rights Law",
         "document_classification": "Convenant",
         "rights": "United Nations",
-        "description": "This is a covenant established at the United Nations regarding social rights",
-        "original_language": ["Spanish", "Russian", "French", "English", "Chinese"],
+        "authentic_texts": ["Spanish", "Russian", "French", "English", "Chinese"],
         "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&lang=en",
         "manuscript_url": "https://treaties.un.org/doc/Treaties/1976/01/19760103%2009-57%20PM/Ch_IV_03.pdf"
       }
