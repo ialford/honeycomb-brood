@@ -21,7 +21,7 @@
         "parent_id": "humanrights1",
         "order": 1,
         "transcription": "INTER-AMERICAN CONVENTION TO PREVENT AND PUNISH TORTURE",
-        "type": "Heading3"
+        "type_of_text": "Heading3"
       }
     },
     {
@@ -31,7 +31,7 @@
         "parent_id": "humanrights1",
         "order": 2,
         "transcription": "Preamble",
-        "type": "Subheading1"
+        "type_of_text": "Subheading1"
       }
     },
     {
@@ -41,7 +41,8 @@
         "parent_id": "humanrights1",
         "order": 3,
         "transcription": "AWARE of the provision of the American Convention on Human Rights that no one shall be subjected to torture or to cruel, inhuman, or degrading punishment or treatment; REAFFIRMING that all acts of torture or any other cruel, inhuman, or degrading treatment or punishment constitute an offense against human dignity and a denial of the principles set forth in the Charter of the Organization of American States and in the Charter of the United Nations and are violations of the fundamental human rights and freedoms proclaimed in the American Declaration of the Rights and Duties of Man and the Universal Declaration of Human Rights; NOTING THAT, in order for the pertinent rules contained in the aforementioned global and regional instruments to take effect, it is necessary to draft an Inter‐American Convention that prevents and punishes torture; REAFFIRMING their purpose of consolidating in this hemisphere the conditions that make for recognition of and respect for the inherent dignity of man, and ensure the full exercise of his fundamental rights and freedoms, Have agreed upon the following:",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Paragraph 1"
       }
     },
     {
@@ -51,7 +52,7 @@
         "parent_id": "humanrights1",
         "order": 4,
         "transcription": "Article 1",
-        "type": "Subheading1"
+        "type_of_text": "Subheading1"
       }
     },
     {
@@ -61,7 +62,8 @@
         "parent_id": "humanrights1",
         "order": 5,
         "transcription": "The State Parties undertake to prevent and punish torture in accordance with the terms of this Convention.",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Paragraph 2"
       }
     },
     {
@@ -71,7 +73,7 @@
         "parent_id": "humanrights1",
         "order": 6,
         "transcription": "Article 2",
-        "type": "Subheading1"
+        "type_of_text": "Subheading1"
       }
     },
     {
@@ -81,7 +83,8 @@
         "parent_id": "humanrights1",
         "order": 7,
         "transcription": "For the purposes of this Convention, torture shall be understood to be any act intentionally performed whereby physical or mental pain or suffering is inflicted on a person for purposes of criminal investigation, as a means of intimidation, as personal punishment, as a preventive measure, as a penalty, or for any other purpose. Torture shall also be understood to be the use of methods upon a person intended to obliterate the personality of the victim or to diminish his physical or mental capacities, even if they do not cause physical pain or mental anguish. The concept of torture shall not include physical or mental pain or suffering that is inherent in or solely the consequence of lawful measures, provided that they do not include the performance of the acts or use of the methods referred to in this article.",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Paragraph 3"
       }
     }
   ]
