@@ -110,7 +110,7 @@
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 8,
         "transcription": "Article 3",
-        "type": "Subheading1"
+        "type_of_text": "Subheading1"
       }
     },
     {
@@ -120,7 +120,8 @@
         "parent_id": "IHRL_UN_1985_Torture_Convention",
         "order": 9,
         "transcription": "The following shall be held guilty of the crime of torture: a. A public servant or employee who acting in that capacity orders, instigates or induces the use of torture, or who directly commits it or who, being able to prevent it, fails to do so. b. A person who at the instigation of a public servant or employee mentioned in subparagraph (a) orders, instigates or induces the use of torture, directly commits it or is an accomplice thereto.",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Para The First"
       }
     },
     {
@@ -154,7 +155,7 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 1,
         "transcription": "International Covenant on Economic, Social and Cultural Rights",
-        "type": "Heading1"
+        "type_of_text": "Heading1"
       }
     },
     {
@@ -164,7 +165,7 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 2,
         "transcription": "Adopted and opened for signature, ratification and accession by General Assembly resolution 2200A (XXI) of 16 December 1966 entry into force 3 January 1976, in accordance with article 27",
-        "type": "Subheading1"
+        "type_of_text": "Subheading1"
       }
     },
     {
@@ -174,7 +175,8 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 3,
         "transcription": "AWARE of the provision of the American Convention on Human Rights that no one shall be subjected to torture or to cruel, inhuman, or degrading punishment or treatment; REAFFIRMING that all acts of torture or any other cruel, inhuman, or degrading treatment or punishment constitute an offense against human dignity and a denial of the principles set forth in the Charter of the Organization of American States and in the Charter of the United Nations and are violations of the fundamental human rights and freedoms proclaimed in the American Declaration of the Rights and Duties of Man and the Universal Declaration of Human Rights; NOTING THAT, in order for the pertinent rules contained in the aforementioned global and regional instruments to take effect, it is necessary to draft an Inter‐American Convention that prevents and punishes torture; REAFFIRMING their purpose of consolidating in this hemisphere the conditions that make for recognition of and respect for the inherent dignity of man, and ensure the full exercise of his fundamental rights and freedoms, Have agreed upon the following:",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Special Paragraph"
       }
     },
     {
@@ -184,7 +186,8 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 4,
         "transcription": "Recognizing that these rights derive from the inherent dignity of the human person,",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Special Paragraph 3"
       }
     },
     {
@@ -194,7 +197,8 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 5,
         "transcription": "Recognizing that, in accordance with the Universal Declaration of Human Rights, the ideal of free human beings enjoying freedom from fear and want can only be achieved if conditions are created whereby everyone may enjoy his economic, social and cultural rights, as well as his civil and political rights,",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Another Paragraph"
       }
     },
     {
@@ -204,7 +208,8 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 6,
         "transcription": "Considering the obligation of States under the Charter of the United Nations to promote universal respect for, and observance of, human rights and freedoms,",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Considering Paragraph"
       }
     },
     {
@@ -214,7 +219,8 @@
         "parent_id": "IHRL_UN_1966_EconomicSocialCultural_Convention",
         "order": 7,
         "transcription": "Realizing that the individual, having duties to other individuals and to the community to which he belongs, is under a responsibility to strive for the promotion and observance of the rights recognized in the present Covenant,",
-        "type": "BodyText"
+        "type_of_text": "BodyText",
+        "heading": "Special Paragraph"
       }
     }
   ]

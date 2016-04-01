@@ -50,7 +50,7 @@
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 3,
         "transcription": "ECCLESIA IN AMERICA",
-        "type": "Heading3"
+        "type_of_text": "Heading3"
       }
     },
     {
@@ -60,7 +60,7 @@
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 4,
         "transcription": "OF THE HOLY FATHER",
-        "type": "Heading1"
+        "type_of_text": "Heading1"
       }
     },
     {
@@ -70,7 +70,7 @@
         "parent_id": "CST_VAT_1999_EcclesiainAmerica_ApostolicExhortation",
         "order": 5,
         "transcription": "JOHN PAUL II",
-        "type": "Heading1"
+        "type_of_text": "Heading1"
       }
     },
     {
@@ -163,7 +163,7 @@
         "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
         "order": 1,
         "transcription": "RERUM NOVARUM",
-        "type": "Heading1"
+        "type_of_text": "Heading1"
       }
     },
     {
@@ -173,7 +173,7 @@
         "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
         "order": 2,
         "transcription": "ENCYCLICAL OF POPE LEO XIII",
-        "type": "Heading1"
+        "type_of_text": "Heading1"
       }
     },
     {
@@ -183,7 +183,7 @@
         "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
         "order": 3,
         "transcription": "ON CAPITAL AND LABOR",
-        "type": "Heading1"
+        "type_of_text": "Heading1"
       }
     },
     {
@@ -193,7 +193,7 @@
         "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
         "order": 4,
         "transcription": "To Our Venerable Brethren the Patriarchs",
-        "type": "Heading3"
+        "type_of_text": "Heading3"
       }
     },
     {
@@ -203,7 +203,7 @@
         "parent_id": "CST_VAT_1891_RerumNovarum_Encyclical",
         "order": 5,
         "transcription": "Rights and Duties of Capital and Labor",
-        "type": "Heading2"
+        "type_of_text": "Heading2"
       }
     },
     {
