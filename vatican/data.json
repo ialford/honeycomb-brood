@@ -18,7 +18,7 @@
         "coverage_temporal": "1999",
         "document_group": "Catholic Social Teaching",
         "document_classification": "Apastolic Exhortation",
-        "rights": "Libreria Editrice Vaticana",
+        "rights_holder_website": "Libreria Editrice Vaticana",
         "manuscript_url": "http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html"
       }
     },
@@ -150,7 +150,7 @@
         "coverage_temporal": "1931",
         "document_group": "Catholic Social Teaching",
         "document_classification": "Encyclical",
-        "rights": "Libreria Editrice Vaticana",
+        "rights_holder_website": "Libreria Editrice Vaticana",
         "manuscript_url": "https://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html"
       }
     },
