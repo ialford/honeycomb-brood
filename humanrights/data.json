@@ -23,7 +23,8 @@
         "coverage_temporal": "1985",
         "document_group": "International Human Rights Law",
         "document_classification": "Convention",
-        "rights_holder_website": "United Nations",
+        "rights_holder": "United Nations",
+        "rights_holder_website": "https://www.google.com",
         "authentic_texts": ["Spanish", "Russian", "French", "English", "Chinese", "Arabic"],
         "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-9&chapter=4&lang=en",
         "manuscript_url": "https://treaties.un.org/doc/Treaties/1987/06/19870626%2002-38%20AM/Ch_IV_9p.pdf"
@@ -140,7 +141,8 @@
         "coverage_temporal": "1966",
         "document_group": "International Human Rights Law",
         "document_classification": "Convenant",
-        "rights_holder_website": "United Nations",
+        "rights_holder": "United Nations",
+        "rights_holder_website": "https://www.google.com",
         "authentic_texts": ["Spanish", "Russian", "French", "English", "Chinese"],
         "participants": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-3&chapter=4&lang=en",
         "manuscript_url": "https://treaties.un.org/doc/Treaties/1976/01/19760103%2009-57%20PM/Ch_IV_03.pdf"
